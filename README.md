@@ -1,4 +1,4 @@
-# API Documentation
+# API Documentation for Django project with the RESTful API application
 
 ## List Stocks Endpoint
 
