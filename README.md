@@ -30,8 +30,8 @@
         "stock_status": "Out of Stock",
         "available_stock": 0
     },
-    ...
 ]
+```
 
 ## List Stocks by Status Endpoint
 
@@ -66,8 +66,9 @@ Returns a list of stocks filtered by the specified status.
         "stock_status": "In Stock",
         "available_stock": 50
     },
-    ...
+    
 ]
+```
 
 ## List Stocks by Date Range Endpoint
 
@@ -103,6 +104,6 @@ Returns a list of stocks filtered by the specified date range.
         "stock_status": "Out of Stock",
         "available_stock": 0
     },
-    ...
+
 ]
 
